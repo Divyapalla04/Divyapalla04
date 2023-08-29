@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wonders of the World</title>
+    <style>
+        /* Add your CSS styles here to customize the appearance */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Wonders of the World</h1>
+    </header>
+    <hr>
+
+    <section id="great-wall">
+        <h2>Great Wall of China</h2>
+        <p>The Great Wall of China is one of the most iconic architectural wonders in the world. It is a series of fortifications made of stone, brick, tamped earth, wood, and other materials. The wall stretches approximately 13,170 miles (21,196 kilometers) across northern China.</p>
+        <p>The Great Wall of China is an ancient wall in China. The wall is made of cement, rocks, bricks, and dirt. It was finished in 1878[1] and it was meant to protect the north of the empire of China from enemy attacks. It is the longest structure humans have ever built. It is about 21,196 kilometers long, 9.1 metres (30 feet) wide and 15 metres high. The earlier sections on the wall are made of compacted dirt and stone. Later in the Ming Dynasty they used bricks. There are 7,000 watch towers, block houses for soldiers and beacons to send smoke signals.
+
+            Nineteen walls have been built that were called the Great Wall of China. The first was built in the 7th century BC. The most famous wall was built between 226 and 200 BC by the first Emperor of China, Qin Shi Huang (Qin Pronounced as Chin), during the Qin Dynasty. Not much of this wall remains as people have been stealing from it. It was much farther north than the current wall. The current wall was built during the Ming Dynasty.</p>
+    </section>
+
+    <section id="machu-picchu">
+        <h2>Machu Picchu</h2>
+        <p>Machu Picchu is an ancient Incan citadel located in the Andes Mountains of Peru. It is renowned for its stunning architecture and breathtaking mountain scenery. Machu Picchu was built in the 15th century and later abandoned, only to be rediscovered in the early 20th century.</p>
+        <p>The city sits in a saddle between the two mountains Machu Picchu and Huayna Picchu,[84] with a commanding view down two valleys and a nearly impassable mountain at its back. It has a water supply from springs that cannot be blocked easily. The hillsides leading to it were terraced, to provide more farmland to grow crops and to steepen the slopes that invaders would have to ascend. The terraces reduced soil erosion and protected against landslides.[85] Two high-altitude routes from Machu Picchu cross the mountains back to Cusco, one through the Sun Gate, and the other across the Inca bridge. Both could be blocked easily, should invaders approach along them.
+
+            Machu Picchu and other sites in the area are built over earthquake faults. This may not be a coincidence, according to 2019 research: "One simple answer, researchers now suggest, is that that’s where building materials for the site—large amounts of already fractured rock—were readily available.</p>
+    </section>
+
+    <section id="Taj Mahal">
+        <h2>Taj Mahal</h2>
+        <p>The Taj Mahal is a beautiful white marble mausoleum located in Agra, India. It was built by the Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal. The Taj Mahal is renowned for its intricate architecture and is considered one of the most exquisite buildings ever constructed.</p>
+        <p>The Taj Mahal is located on the right bank of the Yamuna River in a vast Mughal garden that encompasses nearly 17 hectares, in the Agra District in Uttar Pradesh. It was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal with construction starting in 1632 AD and completed in 1648 AD, with the mosque, the guest house and the main gateway on the south, the outer courtyard and its cloisters were added subsequently and completed in 1653 AD. The existence of several historical and Quaranic inscriptions in Arabic script have facilitated setting the chronology of Taj Mahal. For its construction, masons, stone-cutters, inlayers, carvers, painters, calligraphers, dome builders and other artisans were requisitioned from the whole of the empire and also from the Central Asia and Iran. Ustad-Ahmad Lahori was the main architect of the Taj Mahal.
+
+            The Taj Mahal is considered to be the greatest architectural achievement in the whole range of Indo-Islamic architecture. Its recognised architectonic beauty has a rhythmic combination of solids and voids, concave and convex and light shadow; such as arches and domes further increases the aesthetic aspect. The colour combination of lush green scape reddish pathway and blue sky over it show cases the monument in ever changing tints and moods. The relief work in marble and inlay with precious and semi precious stones make it a monument apart. </p>
+    </section>
+    <section id="petra">
+        <h2>Petra</h2>
+        <p>Situated between the Red Sea and the Dead Sea and inhabited since prehistoric times, the rock-cut capital city of the Nabateans, became during Hellenistic and Roman times a major caravan centre for the incense of Arabia, the silks of China and the spices of India, a crossroads between Arabia, Egypt and Syria-Phoenicia. Petra is half-built, half-carved into the rock, and is surrounded by mountains riddled with passages and gorges. An ingenious water management system allowed extensive settlement of an essentially arid area during the Nabataean, Roman and Byzantine periods. It is one of the world's richest and largest archaeological sites set in a dominating red sandstone landscape. 
+
+The Outstanding Universal Value of Petra resides in the vast extent of elaborate tomb and temple architecture; religious high places; the remnant channels, tunnels and diversion dams that combined with a vast network of cisterns and reservoirs which controlled and conserved seasonal rains, and the extensive archaeological remains including of copper mining, temples, churches and other public buildings. The fusion of Hellenistic architectural facades with traditional Nabataean rock-cut temple/tombs including the Khasneh, the Urn Tomb, the Palace Tomb, the Corinthian Tomb and the Deir ("monastery") represents a unique artistic achievement and an outstanding architectural ensemble of the first centuries BC to AD. The varied archaeological remains and architectural monuments from prehistoric times to the medieval periods bear exceptional testimony to the now lost civilisations which succeeded each other at the site.</p>
+    </section>
+    <section id="colosseum">
+        <h2>Colosseum</h2>
+        <p>The Colosseum, also named the Flavian Amphitheater, is a large amphitheater in Rome. It was built during the reign of the Flavian emperors as a gift to the Roman people.
+
+Construction of the Colosseum began sometime between C.E. 70 and 72 under the emperor Vespasian. It opened nearly a decade later and was modified several times in the following years. The massive structure measured approximately 189 by 156 meters (620 by 513 feet), towered four stories high, and included eighty entrances to the amphitheater—seventy-six for the patrons, two for participants of events, and two exclusively for the emperor to use. The sheer number of entrances proved to be necessary: the Colosseum could hold more than 50,000 spectators at its maximum capacity.
+
+When the Colosseum first opened, the emperor Titus celebrated with a hundred days of gladiatorial games. Emperors traditionally attended the games. The emperor Commodus is known to have performed in the arena on hundreds of occasions. Aside from the games, the Colosseum also hosted dramas, reenactments, and even public executions.</p>
+    </section>
+    <section id="Chichen Itza">
+        <h2>Chichen Itza</h2>
+        <p>Chichen Itza is a well-known Archaeological Site and more after being selected one of the New 7 Wonders of the World in July the 7th, 2007.
+
+            Chichen Itza welcomes over 2,500,000 visitors each year and you can reach the archaeological site by car, bus or with different tours.
+            
+            Chichen Itza opens every day from Monday to Sunday from 8 am to 5 pm, the last entrance is at 4 pm, and you can get the tickets on site. You can also checkout: Chichen Itza Tickets.
+            
+            Aerial shot of Chichen Itza Archaeological Site. Kukulcan Pyramid and mayan jungle
+            Mayan Ruins
+            Chichen Itza is beautiful and magnificent just as you must have already heard and it has plenty of Mayan Ruins to visit and get to know about its history.
+            
+            Chichen Itza is divided in Old Chichen and Chichen Itza where you can find 6 Mayan Ruins in the Old Chichen section and about 20 Mayan Ruins in the New Chichen or Chichen Itza, making it a total of 26 Mayan Ruins to see on the Mayan Site.
+            
+            The main Mayan Ruin is the Chichen Itza Pyramid or El Castillo, but there are other equaly important as El Caracol or Observatory, The Temple of The Warriors and the Mayan Ball Game.</p>
+    </section>
+    <section id="christ the Redeemer">
+        <h2>Christ the Redeemer</h2>
+        <p>The idea of designing a massive statue of Jesus Christ in Rio first came about way back in the 1850s, when a local priest came up with the idea of placing a Christian monument on top of Mount Corcovado. Apparently he had requested Princess Isabel (the daughter of Emperor Pedro II and Princess Regent of Brazil at the time), to fund the project, but the idea was scrapped after a Declaration of the Republic was declared in Brazil in 1889 – a pinnacle move as it separated the church from the state in the country.
+
+            It was not until after World War I when the Roman Catholic archdiocese in Rio and a group of locals started becoming concerned about the “lack of religious faith” in the Brazilian community, and it was hoped that by placing a massive statue of Jesus on top of a mountain in Rio, it would rebel against what they saw as an “increasing godlessness” in the country. It was requested that the statue be placed on the summit of Mount Corcovado so it would be visible from anywhere and everywhere in Rio, and thus represent a way of “reclaiming Rio” (which was Brazil’s capital city at that time) to Christianity.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
